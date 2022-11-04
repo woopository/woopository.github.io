@@ -1,21 +1,27 @@
-<?xml version="1.0" encoding="UTF-8"?><rss xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom" version="2.0"><channel><title><![CDATA[Gatsby Starter Blog RSS Feed]]></title><description><![CDATA[A starter blog demonstrating what Gatsby can do.]]></description><link>https://gatsbystarterblogsource.gatsbyjs.io</link><generator>GatsbyJS</generator><lastBuildDate>Wed, 02 Nov 2022 14:44:07 GMT</lastBuildDate><item><title><![CDATA[Gatsby Blog 개발기 ✍️]]></title><description><![CDATA[그동안 몇 가지 블로그 플랫폼을 사용해 보았었다. 네이버 블로그 티스토리 블로그 Velog 사용하기에 나쁘지 않았지만 디자인과 확장성을 중요시하는 나에게는 적합하지 않아서, Gatsby를 이용한 블로그를 만들어 보고자 한다. 디자인 참고 🎨…]]></description><link>https://gatsbystarterblogsource.gatsbyjs.io/Gatsby Blog 개발기/</link><guid isPermaLink="false">https://gatsbystarterblogsource.gatsbyjs.io/Gatsby Blog 개발기/</guid><pubDate>Fri, 28 Oct 2022 00:00:00 GMT</pubDate><content:encoded>&lt;p&gt;그동안 몇 가지 블로그 플랫폼을 사용해 보았었다.&lt;/p&gt;
-&lt;ol&gt;
-&lt;li&gt;네이버 블로그&lt;/li&gt;
-&lt;li&gt;티스토리 블로그&lt;/li&gt;
-&lt;li&gt;Velog&lt;/li&gt;
-&lt;/ol&gt;
-&lt;p&gt;사용하기에 나쁘지 않았지만 디자인과 확장성을 중요시하는 나에게는 적합하지 않아서, Gatsby를 이용한 블로그를 만들어 보고자 한다.&lt;/p&gt;
-&lt;h1&gt;디자인 참고 🎨&lt;/h1&gt;
-&lt;h2&gt;1. Medium&lt;/h2&gt;
-&lt;p&gt;&lt;a href=&quot;https://medium.com/&quot;&gt;https://medium.com/&lt;/a&gt;&lt;/p&gt;
-&lt;h2&gt;2. Apple Developer&lt;/h2&gt;
-&lt;p&gt;&lt;a href=&quot;https://developer.apple.com/&quot;&gt;https://developer.apple.com/&lt;/a&gt;&lt;/p&gt;
-&lt;h1&gt;Todo..&lt;/h1&gt;
-&lt;ol&gt;
-&lt;li&gt;모바일 웹폰트 적용&lt;/li&gt;
-&lt;li&gt;다크 모드 적용&lt;/li&gt;
-&lt;li&gt;링크 클릭 후 뒤로 가기 클릭 시 소켓 오류(Node version 확인 필요)&lt;/li&gt;
-&lt;/ol&gt;</content:encoded></item><item><title><![CDATA[Spring 파일 업로드 & 다운로드 예제]]></title><description><![CDATA[파일 업로드 가이드 링크 HTML Templates]]></description><link>https://gatsbystarterblogsource.gatsbyjs.io/Spring 파일 업로드 &amp; 다운로드 예제/</link><guid isPermaLink="false">https://gatsbystarterblogsource.gatsbyjs.io/Spring 파일 업로드 &amp; 다운로드 예제/</guid><pubDate>Sat, 15 Oct 2022 00:00:00 GMT</pubDate><content:encoded>&lt;h2&gt;파일 업로드 가이드&lt;/h2&gt;
+<?xml version="1.0" encoding="UTF-8"?><rss xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom" version="2.0"><channel><title><![CDATA[Gatsby Starter Blog RSS Feed]]></title><description><![CDATA[A starter blog demonstrating what Gatsby can do.]]></description><link>https://gatsbystarterblogsource.gatsbyjs.io</link><generator>GatsbyJS</generator><lastBuildDate>Fri, 04 Nov 2022 15:03:07 GMT</lastBuildDate><item><title><![CDATA[Linux 명령어]]></title><description><![CDATA[mkdir : 폴더 생성
+pwd : 현재 경로 확인
+ls :
+ls -al :
+ll :
+rm
+mv
+cp
+cd]]></description><link>https://gatsbystarterblogsource.gatsbyjs.io/Linux 명령어/</link><guid isPermaLink="false">https://gatsbystarterblogsource.gatsbyjs.io/Linux 명령어/</guid><pubDate>Fri, 04 Nov 2022 00:00:00 GMT</pubDate><content:encoded>&lt;p&gt;mkdir : 폴더 생성
+pwd : 현재 경로 확인
+ls :
+ls -al :
+ll :
+rm
+mv
+cp
+cd&lt;/p&gt;</content:encoded></item><item><title><![CDATA[IP 주소와 포트]]></title><description><![CDATA[22 : SSH
+80 : HTTP
+443: HTTPS 참고 https://hanamon.kr/%EB%84%A4%ED%8A%B8%EC%9B%8C%ED%81%AC-%EA%B8%B0%EB%B3%B8-ip-%EC%A3%BC%EC%86%8C%EC%99%8…]]></description><link>https://gatsbystarterblogsource.gatsbyjs.io/IP 주소와 포트/</link><guid isPermaLink="false">https://gatsbystarterblogsource.gatsbyjs.io/IP 주소와 포트/</guid><pubDate>Thu, 03 Nov 2022 00:00:00 GMT</pubDate><content:encoded>&lt;p&gt;22 : SSH
+80 : HTTP
+443: HTTPS&lt;/p&gt;
+&lt;p&gt;참고&lt;/p&gt;
+&lt;p&gt;&lt;a href=&quot;https://hanamon.kr/%EB%84%A4%ED%8A%B8%EC%9B%8C%ED%81%AC-%EA%B8%B0%EB%B3%B8-ip-%EC%A3%BC%EC%86%8C%EC%99%80-%ED%8F%AC%ED%8A%B8-port/&quot;&gt;https://hanamon.kr/%EB%84%A4%ED%8A%B8%EC%9B%8C%ED%81%AC-%EA%B8%B0%EB%B3%B8-ip-%EC%A3%BC%EC%86%8C%EC%99%80-%ED%8F%AC%ED%8A%B8-port/&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;&lt;a href=&quot;https://ko.wikipedia.org/wiki/TCP/UDP%EC%9D%98_%ED%8F%AC%ED%8A%B8_%EB%AA%A9%EB%A1%9D&quot;&gt;https://ko.wikipedia.org/wiki/TCP/UDP%EC%9D%98_%ED%8F%AC%ED%8A%B8_%EB%AA%A9%EB%A1%9D&lt;/a&gt;&lt;/p&gt;</content:encoded></item><item><title><![CDATA[Spring 파일 업로드 & 다운로드 예제]]></title><description><![CDATA[파일 업로드 가이드 링크 HTML Templates]]></description><link>https://gatsbystarterblogsource.gatsbyjs.io/Spring 파일 업로드 &amp; 다운로드 예제/</link><guid isPermaLink="false">https://gatsbystarterblogsource.gatsbyjs.io/Spring 파일 업로드 &amp; 다운로드 예제/</guid><pubDate>Sat, 15 Oct 2022 00:00:00 GMT</pubDate><content:encoded>&lt;h2&gt;파일 업로드 가이드&lt;/h2&gt;
 &lt;p&gt;&lt;a href=&quot;https://nm-it-diary.tistory.com/102?category=954729&quot; target=&quot;_blank&quot;&gt;링크&lt;/a&gt;&lt;/p&gt;
 &lt;h2&gt;HTML Templates&lt;/h2&gt;
 &lt;div class=&quot;gatsby-highlight&quot; data-language=&quot;html&quot;&gt;&lt;pre class=&quot;language-html&quot;&gt;&lt;code class=&quot;language-html&quot;&gt;&lt;span class=&quot;token tag&quot;&gt;&lt;span class=&quot;token tag&quot;&gt;&lt;span class=&quot;token punctuation&quot;&gt;&amp;lt;&lt;/span&gt;html&lt;/span&gt;&lt;span class=&quot;token punctuation&quot;&gt;&gt;&lt;/span&gt;&lt;/span&gt;
