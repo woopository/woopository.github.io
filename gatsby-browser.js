@@ -1,6 +1,7 @@
 import "@fontsource/montserrat/variable.css"
 import "@fontsource/merriweather"
+import "./src/css/font.css"
+import "./src/css/variables.css"
 import "./src/css/normalize.css"
 import "./src/css/style.css"
-import "./src/css/font.css"
 import "prismjs/themes/prism.css"
